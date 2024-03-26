@@ -33,4 +33,14 @@ So the weight multiplying the height is conservative, and we call it as gravitat
 
 ## Chapter 5. Time and Distance
 
-### 5–1 Motion
+### 5–2 Time
+
+We can feel the flow of time, but it's hard to define time, or we should say it's hard to find the existence of time.
+
+In physics, we don't define time, but we measure it. We use something that happens over and over again in a regular fashion to measure time.
+
+How can we know a periodic event is regular? We can compare two periodic events, for example, we can count the turnings of an hourglass to check that if every day is the same length. If not, then one periodic event must not be regular. We have to pick one as the base of time. In summary, we have to *assume* some periodic events are regular, and then pick up a more accurate one as the base.
+
+We have to make assumptions if we want to move forward.
+
+## Chapter 6. Probability
