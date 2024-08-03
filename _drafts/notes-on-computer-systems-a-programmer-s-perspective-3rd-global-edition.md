@@ -17,3 +17,8 @@ image: cover.jpg
 > All information in a system—including disk files, programs stored in memory, user data stored in memory, and data transferred across a network—is represented as a bunch of bits. The only thing that distinguishes different data objects is the context in which we view them.
 
 ### 1.2 Programs Are Translated by Other Programs into Different Forms
+
+![A compiler system](fig-1-3.jpg)
+_A compiler system_
+
+### 1.3 It Pays to Understand How Compilation Systems Work
