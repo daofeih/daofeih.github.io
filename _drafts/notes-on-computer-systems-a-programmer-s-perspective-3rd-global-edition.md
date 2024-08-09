@@ -22,3 +22,15 @@ image: cover.jpg
 _A compiler system_
 
 ### 1.3 It Pays to Understand How Compilation Systems Work
+
+- Optimizing program performance
+- Understanding link-time errors
+- Avoiding security holes
+
+### 1.4 Processors Read and Interpret Instructions Stored in Memory
+
+#### 1.4.1 Hardware Organization of a System
+
+![Hardware organization of a typical system](fig-1-4.jpg){: w="500" }
+
+### 1.5 Caches Matter
