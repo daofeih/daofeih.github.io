@@ -21,3 +21,11 @@ Philosophy gives a person the confidence to face the change of the world.
 ![Philosophers forming a big question](philosophers.jpg)
 
 ## Introduction: Doing Philosophy
+
+### Beyond Buzzwords
+
+Do not use buzzwords. Define your terms.
+
+> In fact, it is very difficult to define your terms, and most of the time, the definition emerges at the *end* of the thought process rather than at the beginning.
+
+## Chapter 1. Philosophical Questions
