@@ -44,9 +44,9 @@ All mathematicians, from Fermat and Newton to Gauss and Riemann, assumed that ev
 
 #### b. Real Numbers and Nested Intervals
 
-We note that every irrational number on the number axis can be infinitely approximated by a sequence of intervals with rational numbers as endpoints, whose length tends to zero. So does the converse hold? We can make a postulate:
+We note that every irrational number on the number axis can be infinitely approximated by a sequence of closed intervals with rational numbers as endpoints, whose length tends to zero. So does the converse hold? We can make a postulate:
 
-*For any sequence of intervals with rational numbers as endpoints whose length tends to zero, there always exists a point on the number axis that is contained in all these intervals.*
+*For any sequence of closed intervals with rational numbers as endpoints whose length tends to zero, there always exists a point on the number axis that is contained in all these intervals.*
 
 Although we have not yet given a definition of irrational numbers, we can use this assumption as an axiom to investigate the properties of continuum, and this axiom is very geometrically intuitive.
 
