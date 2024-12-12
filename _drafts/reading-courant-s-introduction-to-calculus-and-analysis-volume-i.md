@@ -4,6 +4,7 @@ title: Reading Courant's "Introduction to Calculus and Analysis, Volume I"
 categories: [Notes, Book Notes]
 tags: [mathematics, analysis, calculus]
 math: true
+media_subpath: /assets/img/posts/reading-courant-s-introduction-to-calculus-and-analysis-volume-i
 ---
 | Title | *Introduction to Calculus and Analysis*, Volume I |
 | Author | Richard Courant & Fritz John |
@@ -50,4 +51,48 @@ We note that every irrational number on the number axis can be infinitely approx
 
 Although we have not yet given a definition of irrational numbers, we can use this assumption as an axiom to investigate the properties of continuum, and this axiom is very geometrically intuitive.
 
-#### c. Decimal Fractions. Bases Other than Ten
+#### e. Inequalities
+
+The Cauchy-Schwarz inequality:
+
+$$
+(\sum_{i=1}^{n} a_i b_i)^2 \leq (\sum_{i=1}^{n} a_i^2) (\sum_{i=1}^{n} b_i^2)
+$$
+
+Proof: For every real number $t$, we have $(a_i t + b_i)^2 \geq 0$. Thus,
+
+$$
+0 \leq \sum_{i=1}^{n} (a_i t + b_i)^2 = (\sum_{i=1}^{n} a_i^2) t^2 + 2 (\sum_{i=1}^{n} a_i b_i) t + (\sum_{i=1}^{n} b_i^2)
+$$
+
+Let $A = \sum_{i=1}^{n} a_i^2$, $B = \sum_{i=1}^{n} b_i^2$, and $C = \sum_{i=1}^{n} a_i b_i$, then we have
+
+$$
+0 \leq A t^2 + 2C t + B
+$$
+
+According to the quadratic formula, we have $4C^2 - 4AB \leq 0$. After expanding it, we get the Cauchy-Schwarz inequality. $\square$
+
+In the special case $n = 2$, we can choose
+
+$$
+a_1 = \sqrt{x}, a_2 = \sqrt{y}, b_1 = \sqrt{y}, b_2 = \sqrt{x}
+$$
+
+where $x,y$ are positive. Then we have
+
+$$
+(2\sqrt{xy})^2 \leq (x+y)^2
+$$
+
+or
+
+$$
+\sqrt{xy} \leq \frac{x+y}{2}
+$$
+
+It states that the geometric mean $\sqrt{xy}$ never exceeds their arithmetic mean $(x+y)/2$.
+
+![Fig 1.6](fig-1-6.jpg){: w="400" }
+
+### 1.2 The Concept of Function
