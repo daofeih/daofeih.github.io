@@ -81,3 +81,11 @@ for indications that a market is in a particular state*.
 > The specific method we used was known as the breakout, sometimes referred to as Donchian channels after Richard Donchian, who popularized the breakout method of trading. The basic idea was to buy if a market exceeded the highest price for a particular number of preceding days, that is, *broke out* of its prior price levels. We had an intermediate-length system that Rich and Bill called *System 1* that considered 20 days (or 4 trading weeks) of prices to determine the highs and lows and a longer-term system, *System 2*, that used 60-day (12-week) highs and lows to determine the breakout. ... The first was a stop loss exit that was a maximum of $2N$, or two average true ranges away from the entry point. This also happened to represent 2 percent of our account because the way we determined the number of contracts to trade per market also was based on $N$ (average true range).
 
 ## Chapter 4. Think Like a Turtle
+
+### It’s Not about Who’s Right
+
+> Winning traders think in the present and avoid thinking too much about the future.
+
+In other words, winning traders don't predict. They don't know the future but know there will be trends.
+
+## Chapter 5. Trading with an Edge
