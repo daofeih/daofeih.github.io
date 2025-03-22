@@ -34,4 +34,12 @@ The third mysterious mail is a postcard:
 
 Who is Hilde? Why was this postcard sent to Sophie? What's the relation between this postcard and the first two letters?
 
+In summary, philosophy is a practice of answering these three problems:
+
+1. Who am I?
+2. Where did I come from?
+3. Where will I go to?
+
+Greeks believed that a person had wisdom if he could answer these problems, so they got "philosophy" from "love (philos) wisdom (sophia)." The last two problems imply a metaphor of a road, so the Chinese called philosophy "道" (the road).
+
 ## The Top Hat
