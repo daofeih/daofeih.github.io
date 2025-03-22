@@ -28,7 +28,7 @@ Since I'm one part of this world, if I can answer this question, I might be able
 
 My life has a beginning. Does the world have a beginning?
 
-The third mystorious mail is a postcard:
+The third mysterious mail is a postcard:
 
 > Dear Hilde, Happy 15th birthday! As I'm sure you'll understand, I want to give you a present that will help you grow. Forgive me for sending the card c/o Sophie. It was the easiest way. Love from Dad.
 
