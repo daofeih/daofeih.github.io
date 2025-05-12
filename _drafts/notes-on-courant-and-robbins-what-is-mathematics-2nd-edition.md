@@ -41,3 +41,19 @@ In his book, [*Analysis*](https://link.springer.com/book/10.1007/978-981-19-7261
 ### &sect;1. Calculation with Integers
 
 #### 1. Laws of Arithmetic
+
+Instead of "proving" the laws of arithmetic, the authors used a concrete model—boxes of dots—to show *why* these laws hold.
+
+#### 2. The Representation of Integers
+
+> The choice of twelve as base has been advocated, since twelve is exactly divisible by two, three, four, and six, and, as a result, work involving division and fractions would often be simplified.
+
+#### 3. Computation in Systems Other than the Decimal
+
+> Gottfried Wilhelm Leibniz (1646–1716), one of the greatest intellects of his time, was fond of the dyadic system. To quote Laplace: "Leibniz saw in his binary arithmetic the image of creation. He imagined that Unity represented God, and zero the void; that the Supreme Being drew all beings from the void, just as unity and zero express all numbers in his system of numeration."
+
+This may not be just an imagination. Reality may be information encoded in 0s and 1s.
+
+### &sect;2. The Infinitude of the Number System. Mathematical Induction
+
+#### 1. The Principle of Mathematical Induction
